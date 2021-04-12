@@ -1,0 +1,20 @@
+name: o_widgets
+description:  Basic Text widget for your apps.
+version: 0.0.9
+homepage: https://github.com/osmanturkmen/
+repository: https://github.com/osmanturkmen/owidgets/
+decemantation: https://github.com/osmanturkmen/owidgets/
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
